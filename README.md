@@ -8,6 +8,8 @@ My Github contains documentation, posts, tools, and experimental code for Offens
 
 ## Areas of interest:
 
+* Red Team
+* Offensive Security
 * Cloud
 * Containers
 * Kubernetes
