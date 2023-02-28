@@ -1,6 +1,6 @@
 Hi, I'm sneakerhax,
 
-I have spent the last seven years on Red Teams, helping some of the world's largest software companies discover soft spots in their security posture. Additionally, I demonstrate the impact of exploiting those weaknesses, test the response capabilities of Blue Teams and Incident Responders, and identify systemic security process issues at scale. Through data and high-quality reporting, I can help businesses prioritize security issues and make informed decisions about allocating security resources. Before working on Red Teams, I spent eight years in Information Technology as a Systems Administrator.
+I have spent the last seven years on [Red Teams](https://en.wikipedia.org/wiki/Red_team), helping some of the world's largest software companies discover soft spots in their security posture. Additionally, I demonstrate the impact of exploiting those weaknesses, test the response capabilities of Blue Teams and Incident Responders, and identify systemic security process issues at scale. Through data and high-quality reporting, I can help businesses prioritize security issues and make informed decisions about allocating security resources. Before working on Red Teams, I spent eight years in Information Technology as a Systems Administrator.
 
 ## Github Overview
 
