@@ -4,12 +4,11 @@ I have spent the last eight years on [Red Teams](https://en.wikipedia.org/wiki/R
 
 ## Github Overview
 
-My Github contains documentation, posts, tools, and experimental code for Offensive Security purposes. I use many elements in these code repos, either in their current state or a modified/updated version, to perform my job daily.
+My Github contains documentation, posts, tools, and experimental code for Red Team purposes. I use many elements in these code repos, either in their current state or a modified/updated version, to perform my job daily.
 
 ## Areas of interest:
 
 * Red Team
-* Offensive Security
 * Cloud
 * Containers
 * Kubernetes
