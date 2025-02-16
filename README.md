@@ -12,9 +12,10 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 
 * Red Team
 * Cloud Native
-* Linux
+* Kubernetes
 * Containers
-* * Kubernetes
+* Linux
+
 
 ## Additional Information
 
