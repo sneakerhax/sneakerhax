@@ -1,6 +1,6 @@
 Hi, I'm sneakerhax,
 
-I have spent the last ten years on [Red Teams](https://en.wikipedia.org/wiki/Red_team), at some of the world's largest software companies
+I've spent the last ten years on [Red Teams](https://en.wikipedia.org/wiki/Red_team), at some of the world's largest software companies
 
 Before working on Red Teams, I spent eight years in Information Technology
 
