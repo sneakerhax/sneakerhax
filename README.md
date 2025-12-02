@@ -13,7 +13,7 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 ## Speciality Focus Areas
 
 * Red Team :red_circle:
-* Cloud :cloud
+* Cloud :cloud:
 * Linux :penguin:
 * Containers :package:
 * Kubernetes :wheel_of_dharma:
