@@ -12,17 +12,13 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 
 ## Speciality Focus Areas
 
-[ :red_circle: ] Red Team
+* Red Team :red_circle:
+* Cloud :cloud
+* Linux :penguin:
+* Containers :package:
+* Kubernetes :wheel_of_dharma:
 
-[ :cloud: ] Cloud
-
-[ :penguin:] Linux
-
-[ :package: ] Containers
-
-[ :wheel_of_dharma: ] Kubernetes
-
-## Languages, Tools, and Licenses
+## Development Environment
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-FADA5E.svg?logo=python)](https://www.python.org/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/) [![golang](https://img.shields.io/badge/golang-1.19+-29BEB0.svg?logo=GO)](https://go.dev/)
 [![Docker](https://img.shields.io/badge/dockerhub-sneakerhax-0db7ed.svg?logo=docker)](http://hub.docker.com/u/sneakerhax) [![License](https://img.shields.io/badge/license-GPL3-lightgrey.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
