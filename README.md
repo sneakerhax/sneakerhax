@@ -13,9 +13,13 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 ## Areas of focus:
 
 [ :red_circle: ] Red Team
+
 [ :cloud: ] Cloud
+
 [ :penguin:] Linux
+
 [ :package: ] Containers
+
 [ :wheel_of_dharma: ] Kubernetes
 
 ## Additional Information
