@@ -10,7 +10,7 @@ Before working on Red Teams, I spent eight years in Information Technology.
 
 My Github contains documentation, posts, tools, and experimental code for Red Team purposes.
 
-## Speciality Focus Areas
+## Focus Areas
 
 * Red Team :red_circle:
 * Cloud :cloud:
