@@ -12,7 +12,7 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 
 ## Areas of focus:
 
-* [:red_circle:] Red Team :red_circle:
+* [ :red_circle: ] Red Team :red_circle:
 * Cloud :cloud:
 * Linux :penguin:
 * Containers :package:
