@@ -24,6 +24,8 @@ My Github contains documentation, posts, tools, and experimental code for Red Te
 
 :wheel_of_dharma: Kubernetes
 
+:robot: Artificial Intelligence
+
 ## Development Environment
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-FADA5E.svg?logo=python)](https://www.python.org/) [![PEP8](https://img.shields.io/badge/code%20style-pep8-red.svg)](https://www.python.org/dev/peps/pep-0008/) [![golang](https://img.shields.io/badge/golang-1.19+-29BEB0.svg?logo=GO)](https://go.dev/)
