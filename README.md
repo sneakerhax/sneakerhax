@@ -2,7 +2,7 @@ Hi, I'm sneakerhax,
 
 I've spent the last 10 on [Red Teams](https://en.wikipedia.org/wiki/Red_team) at some of the world's largest software companies.
 
-Before working on Red Teams, I spent 8 in Information Technology.
+Before working on Red Teams, I spent 8 years in Information Technology.
 
 ![alt text](.img/sneakerhax_banner.png)
 
