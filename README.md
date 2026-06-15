@@ -1,6 +1,6 @@
 Hi, I'm sneakerhax,
 
-I've spent the last 10 on [Red Teams](https://en.wikipedia.org/wiki/Red_team) at some of the world's largest software companies, including Adobe, Microsoft, and Intuit.
+I've spent the last 10 on [Red Teams](https://en.wikipedia.org/wiki/Red_team) at some of the world's largest Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
 
 Before working on Red Teams, I spent 8 years in Information Technology.
 
