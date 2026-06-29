@@ -1,10 +1,6 @@
 Hi, I'm sneakerhax,
 
-I've spent the last 10 on [Red Teams](https://en.wikipedia.org/wiki/Red_team) at some of the world's largest Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
-
-Before working on Red Teams, I spent 8 years in Information Technology.
-
-![alt text](.img/sneakerhax_banner.png)
+A Red Team leader with 10 years of experience at some of the world's largest Fortune 500 software companies, including Adobe, Microsoft, and Intuit. I leverage this experience to build and run Red Teams and advise on Adversarial Testing.
 
 ## About
 
