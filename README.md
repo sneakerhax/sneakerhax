@@ -1,6 +1,6 @@
-Hi, I'm sneakerhax,
+Hi, I'm sneakerhax, 👋
 
-My Red Team leadership is built on 10 years at Fortune 500 software companies, including Adobe, Microsoft, and Intuit, where I built, led, and ran Red Teams that tested the defenses of some of the world's most targeted organizations.
+A Red Team leader with over 10 years at Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
 
 ## About
 
