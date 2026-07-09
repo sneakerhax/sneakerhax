@@ -1,6 +1,6 @@
 Hi, I'm sneakerhax, 👋
 
-A Red Team leader 10 years of experience at Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
+A Red Team leader with 10 years of experience at Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
 
 ## About
 
