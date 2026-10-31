@@ -1,9 +1,5 @@
 Hi, I'm sneakerhax, 👋
 
-A Red Team leader with 10 years of experience at Fortune 500 software companies, including Adobe, Microsoft, and Intuit.
-
-## About
-
 My Github contains documentation, posts, tools, and experimental code for Red Team purposes.
 
 ## Focus Areas
